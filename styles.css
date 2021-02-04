@@ -1,0 +1,99 @@
+.header-wrapper {
+  box-shadow: 12px 14px 18px #c1c4c3;
+}
+
+.image-header-logo {
+  width: 4vw;
+  height: 4vw;
+  margin-right: 1vw;
+  margin-left: 1vw;
+}
+
+.main-body {
+  background-color: black;
+}
+
+footer {
+  padding: 3em;
+  margin-top: auto;
+  background-color: black;
+  width: 100%;
+  /* position: absolute;
+  bottom: 0; */
+  text-align: center;
+  background-color: whitesmoke;
+}
+
+.content-container {
+  background-color: #666562;
+  margin: 2vw;
+  text-align: center;
+  justify-content: center;
+  padding: 1vw;
+  border-radius: 10px;
+  border-style: solid;
+  border-left-width: 7px;
+  border-right-width: 7px;
+  border-right-color: #d4a804;
+  border-left-color: #d4a804;
+}
+
+.header-container {
+  color: #d4a804;
+
+}
+
+.text-container {
+  color: white;
+  margin-left: 20vw;
+  margin-right: 20vw;
+  text-align: left;
+}
+
+.link {
+  color: #d4a804;
+}
+
+.gallery-container {
+  text-align: center;
+}
+
+.gallery-header {
+  color: #d4a804;
+}
+
+.image-frame {
+  margin: 2vw;
+}
+
+.image-piece {
+  width: 50vw;
+  height: 30vw;
+}
+
+.text-frame {
+  display: flex;
+  flex-direction: row;
+
+  background-color: #666562;
+  margin: 1vw;
+  border-radius: 5px;
+  text-align: left;
+  padding: 10px;
+  border-right-style: solid;
+  border-left-style: solid;
+  border-right-width: 5px;
+  border-left-width: 5px;
+  border-right-color: #d4a804;
+  border-left-color: #d4a804;
+}
+
+.sport-logo {
+  width: 5vw;
+  height: 5vw;
+  margin-right: 3vw;
+}
+
+#carousel-images{
+    height: 30vh;
+}
